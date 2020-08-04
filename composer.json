@@ -1,5 +1,5 @@
 {
-    "name": "glasstech/test",
+    "name": "elsayed-mazen/test",
     "require": {
         "guzzlehttp/guzzle": "^7.0"
     },
