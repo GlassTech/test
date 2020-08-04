@@ -1,0 +1,13 @@
+{
+    "name": "glasstech/test",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mazen S. H. Elsayed",
+            "email": "elsayed-mazen@users.noreply.github.com"
+        }
+    ]
+}
